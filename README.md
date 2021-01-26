@@ -1,0 +1,9 @@
+### aws-terraform-lambda-el-api-gateway
+* aws_vpc
+* aws_subnet
+* aws_lb
+* aws_api_gateway_vpc_link
+* aws_api_gateway_rest_api
+* aws_api_gateway_resource
+* aws_api_gateway_method
+* aws_api_gateway_integration
